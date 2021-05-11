@@ -1,0 +1,19 @@
+{
+  "name": "travis-ci-teste-01",
+  "version": "1.0.0",
+  "description": "Exemplo de integração contínua com Travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusgomes185/travis-ci-teste-01.git"
+  },
+  "author": "Matheus Gomes, Laryssa Bezerra, Jessyca Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusgomes185/travis-ci-teste-01/issues"
+  },
+  "homepage": "https://github.com/matheusgomes185/travis-ci-teste-01#readme"
+}
