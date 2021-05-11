@@ -1,3 +1,3 @@
 module.exports = function multiplicar(var1, var2) {
-    return var1 * var3;
+    return var1 * var2;
 }
