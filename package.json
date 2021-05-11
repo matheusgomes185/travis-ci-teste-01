@@ -4,7 +4,7 @@
   "description": "Exemplo de integração contínua com Travis CI",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/matheusgomes185/travis-ci-teste-01/issues"
   },
-  "homepage": "https://github.com/matheusgomes185/travis-ci-teste-01#readme"
+  "homepage": "https://github.com/matheusgomes185/travis-ci-teste-01#readme",
+  "dependencies": {
+    "mocha": "^8.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
